@@ -42,7 +42,6 @@ map-s.online
 mapper.info
 mapss.icu
 mitarchive.info
-msedge.net
 mtp-global.com
 mymap.icu
 mymap.quest
@@ -51,7 +50,6 @@ mypicparade.pics
 myprivate.pics
 myprivate.yachts
 nahsdmgjuvmyp.online
-ntp.msn.com
 outwingullom.com
 parsec.app
 parsec.gg
