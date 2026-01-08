@@ -13,8 +13,6 @@ askme4date.com
 bank.charity
 bc.ax
 bhkgk3js.com
-browser.events.data.msn.com
-browser.pipe.aria.microsoft.com
 cabinet.salesupwidget.com
 clickthis.photo
 cryp-o.online
@@ -65,7 +63,6 @@ photovault.store
 picshare.hair
 picshare.mom
 picturestash.mom
-pipe.aria.microsoft.com
 refeuficn.github.io
 screenshare.pics
 screensnaps.top
@@ -73,7 +70,6 @@ sharevault.cloud
 sola55.online
 stopify.co
 tailscale.com
-web.vortex.data.microsoft.com
 wl.gl
 xn--80asehdbaaaj4aw9c.xn--p1ai
 xtube.chat
