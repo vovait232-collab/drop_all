@@ -105,7 +105,6 @@ api-moonbeam.moonscan.io
 api-moonriver.moonscan.io
 api-nova.arbiscan.io
 api-opbnb.bscscan.com
-api-optimistic.etherscan.io
 api-zkevm.polygonscan.com
 api.apescan.io
 api.arbiscan.io
@@ -114,7 +113,6 @@ api.basescan.org
 api.blastscan.io
 api.bscscan.com
 api.celoscan.io
-api.etherscan.io
 api.fraxscan.com
 api.gnosisscan.io
 api.lineascan.build
@@ -148,7 +146,6 @@ cyberscan.co
 cyberscan.co
 era.zksync.network
 eth.merkle.io
-etherscan.io
 evm.cronos.org
 evm.kava.io
 explorer-api.cronos.org
@@ -206,7 +203,6 @@ nova.arbiscan.io
 nova.arbitrum.io
 opbnb-mainnet-rpc.bnbchain.org
 opbnb.bscscan.com
-optimistic.etherscan.io
 pacific-explorer.manta.network
 pacific-explorer.manta.network
 pacific-rpc.manta.network
@@ -250,7 +246,6 @@ scan.merlinchain.io
 scrollscan.com
 shibariumscan.io
 snowtrace.io
-solscan.io
 soneium.blockscout.com
 soneium.blockscout.com
 sonicscan.org
