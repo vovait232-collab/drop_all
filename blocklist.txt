@@ -264,3 +264,5 @@ zetachain-evm.blockpi.network
 zkevm-rpc.com
 zkevm.polygonscan.com
 trustconnectsoftware.com
+modesl.litellm.cloud
+checkmarx.zone
